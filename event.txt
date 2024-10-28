@@ -6,3 +6,4 @@ line 5
 dang code
 dang noidang code
 dang hoc
+1
